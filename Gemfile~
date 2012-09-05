@@ -43,5 +43,7 @@ group :production do
 end
 gem 'bootstrap-sass', '2.0.0'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+gem 'bcrypt-ruby', '3.0.1'
+
 
 
